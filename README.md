@@ -4,4 +4,4 @@ This repository collects several topics of Supply Chian Analytics used in Python
 
 
 
-Topics include: Demand Forecasting; Demand Unconstraining; Inventory & Capacity Planning; Pricing Analysis
+Topics include: Demand Forecasting in Different Methods; Demand Unconstraining; Inventory & Capacity Planning; Pricing Analysis
